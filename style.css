@@ -59,6 +59,7 @@
   transform: translate(-50%, -50%);
   font-family: sans-serif;
   user-select: none;
+  text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em blue;
 }
 
 .center h1 {
@@ -75,7 +76,7 @@
   font-weight: bold;
   width: 885px;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 .center .buttons {
